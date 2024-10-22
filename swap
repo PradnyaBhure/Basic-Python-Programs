@@ -1,0 +1,16 @@
+# Swapping of two numbers
+
+x=10
+y=20
+print("Before Swapping:")
+print("x =",x,"y =",y)
+
+x,y=y,x
+print("After Swapping:")
+print("x =",x,"y =",y)
+
+#Output
+Before Swapping:
+x = 10 y = 20
+After Swapping:
+x = 20 y = 10
