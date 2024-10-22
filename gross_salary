@@ -1,0 +1,12 @@
+# Gross Salary, GS=BS+DA+HRA
+
+bs=10000
+da=0.05*bs
+hra=0.08*bs
+
+gross_salary=bs+da+hra
+
+print("Gross Salary=",gross_salary)
+
+#Output
+Gross Salary= 11300.0
