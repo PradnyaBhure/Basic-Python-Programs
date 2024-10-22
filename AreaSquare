@@ -1,0 +1,13 @@
+# Area of Square
+
+side=float(input("Enter Side:"))
+area=side*side
+perimeter=4*side
+
+print("Area of Square=",area)
+print("Perimeter of Square=",perimeter)
+
+#Output:
+Enter Side:5
+Area of Square= 25.0
+Perimeter of Square= 20.0
