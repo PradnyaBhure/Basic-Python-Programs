@@ -1,0 +1,13 @@
+# Area of circle
+
+radius=float(input("Enter Radius:"))
+area=3.14*radius*radius
+perimeter=2*3.14*radius
+
+print("Area of Circle=",area)
+print("Perimeter of Circle=",perimeter)
+
+Ouput:
+Enter Radius:3.5
+Area of Circle= 38.465
+Perimeter of Circle= 21.98
