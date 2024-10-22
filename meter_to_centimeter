@@ -1,0 +1,11 @@
+# Conversion from meter to centimeter
+
+meter=float(input("Enter distance in meter:"))
+
+centimeter=meter*100
+
+print("Distance in Centimeter=",centimeter)
+
+#Output
+Enter distance in meter:1
+Distance in Centimeter= 100.0
